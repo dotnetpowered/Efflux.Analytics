@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Efflux.Analytics", "src\Efflux.Analytics.csproj", "{A00FBEF0-0A34-4405-9D42-56AF2CC59D06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Efflux.Samples.Analytics", "samples\Efflux.Samples.Analytics.csproj", "{343905A4-485B-4E9C-AA9C-ECE9993E4A5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A00FBEF0-0A34-4405-9D42-56AF2CC59D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00FBEF0-0A34-4405-9D42-56AF2CC59D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00FBEF0-0A34-4405-9D42-56AF2CC59D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00FBEF0-0A34-4405-9D42-56AF2CC59D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343905A4-485B-4E9C-AA9C-ECE9993E4A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343905A4-485B-4E9C-AA9C-ECE9993E4A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343905A4-485B-4E9C-AA9C-ECE9993E4A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343905A4-485B-4E9C-AA9C-ECE9993E4A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DC06208-2D50-4DF5-BFF0-B4592246C4E9}
+	EndGlobalSection
+EndGlobal
